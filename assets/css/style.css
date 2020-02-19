@@ -78,7 +78,7 @@ h1 {
   font-size: 60px; }
 
 h2 {
-  font-size: 36px; }
+  font-size: 36px;  }
 
 h3 {
   font-size: 28px; }
@@ -228,7 +228,7 @@ p {
             bottom: 0;
             overflow: hidden;
             left: 50%; }
-    .preloader .loader_34 .ytp-spinner-circle {
+    .preloader .loader_34 .ytp-spinner-cirClasse {
       box-sizing: border-box;
       position: absolute;
       width: 200%;
@@ -937,7 +937,7 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(117, 78, 249, 0.7);
+    background-color: rgba(98, 201, 248, 0.7);
     z-index: -1; }
 
 .call-action-content .action-title {
