@@ -14,7 +14,7 @@
     ===================
 
     1.COMMON
-	2.HEADER
+	  2.HEADER
     3.ABOUT
     4.SERVICES
     4.CALL TO ACTION
@@ -35,7 +35,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #8a8fa3; }
+  color: #d0eba6; }
 
 * {
   margin: 0;
@@ -71,7 +71,7 @@ h5,
 h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
-  color: #32333c;
+  color: #20aee6;
   margin: 0px; }
 
 h1 {
@@ -139,14 +139,14 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   -webkit-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
-  -moz-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
-  box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
-  background-color: #754ef9;
+  -moz-box-shadow: 0px 5px 8px 0px rgba(100, 152, 250, 0.55);
+  box-shadow: 0px 5px 8px 0px rgba(78, 186, 249, 0.55);
+  background-color: #4ebaf9;
   text-transform: uppercase; }
   .main-btn:hover {
     background-color: #fff;
     color: #4ef9a9;
-    border-color: #754ef9; }
+    border-color: #13f8d2; }
   .main-btn.main-btn-2 {
     background-color: transparent;
     color: #fff;
