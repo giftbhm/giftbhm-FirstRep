@@ -879,7 +879,8 @@
 /* Background Color */
 
 .gray-bg {
-	background: #fbfbfb;
+	
+	background: url("profile-background.png");
 }
 .white-bg {
 	background: #fff;

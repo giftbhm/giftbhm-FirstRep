@@ -125,7 +125,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 1px solid #754ef9;
+  border: 1px solid #408fda;
   padding: 0 40px;
   font-size: 15px;
   line-height: 48px;
@@ -145,7 +145,7 @@ p {
   text-transform: uppercase; }
   .main-btn:hover {
     background-color: #fff;
-    color: #754ef9;
+    color: #4ef9a9;
     border-color: #754ef9; }
   .main-btn.main-btn-2 {
     background-color: transparent;
