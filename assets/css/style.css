@@ -716,7 +716,7 @@ p {
   
   .header-image img {
     position: relative;
-    z-index: 5;  border-radius: 85%;}
+    z-index: 5;  border-radius: 33%;}
 
 .header-social {
   position: absolute;
