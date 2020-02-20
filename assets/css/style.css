@@ -581,7 +581,7 @@ p {
   margin-top: 90px;
   position: relative;
   overflow: hidden;
-  background-color: #fbfbfb; }
+  background-color: #f9fde4e0; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .header-content {
       height: 550px; } }
@@ -977,7 +977,7 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(117, 78, 249, 0.8);
+    background-color: rgba(78, 209, 249, 0.8);
     opacity: 0;
     visibility: hidden;
     -webkit-transition: all 0.3s ease-out 0s;
