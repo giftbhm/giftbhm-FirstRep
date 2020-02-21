@@ -11,7 +11,7 @@ Objectives:
 Blocks encountered:
 •	Locating image source link with image extension file to my webpage
 
-Solution for lock:
+Solution for block:
 •	Asking few team members who are familiar with HTML platform
 ________________________________________
 18 FEBRUARY 2020
@@ -34,7 +34,7 @@ Objectives:
 Blocks encountered:
 •	Styling webpage using CSS for the first time.
 •	Not understanding a structure of documentation
-Solution for lock:
+Solution for block:
 •	Visited W3School website to learn about CSS basics.
 •	Ashish briefly highlighted on how to create a documentation. 
 ________________________________________
@@ -47,7 +47,7 @@ Objectives:
 Blocks encountered:
 •	Unworking links
 
-Solution for lock:
+Solution for block:
 •	Locate bugs and did self-review for each tab with its section to fix errors. 
 ________________________________________
 
@@ -58,6 +58,6 @@ Objectives:
 Blocks encountered:
 •	None
 
-Solution for lock:
+Solution for block:
 •	None
 
